@@ -1,5 +1,3 @@
-# woowacourse_archive
-
 # 우아한테크코스 프로젝트 아카이브
 
 ## 레벨 1
